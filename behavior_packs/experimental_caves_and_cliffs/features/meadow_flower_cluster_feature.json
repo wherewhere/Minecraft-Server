@@ -1,0 +1,20 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:scatter_feature": {
+    "description": {
+      "identifier": "minecraft:meadow_flower_cluster_feature"
+    },
+    "places_feature": "minecraft:random_meadow_flower_feature",
+    "iterations": 10,
+    "scatter_chance": 50.0,
+    "x": {
+      "distribution": "uniform",
+      "extent": [ 0, 5 ]
+    },
+    "y": 0,
+    "z": {
+      "distribution": "uniform",
+      "extent": [ 0, 5 ]
+    }
+  }
+}

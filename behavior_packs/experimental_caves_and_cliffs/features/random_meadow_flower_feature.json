@@ -1,0 +1,14 @@
+
+{
+    "format_version": "1.13.0",
+    "minecraft:weighted_random_feature": {
+        "description": {
+            "identifier": "minecraft:random_meadow_flower_feature"
+        },
+        "features": [
+            ["minecraft:yellow_flower_feature", 5],
+            ["minecraft:cornflower_feature", 5],
+            ["minecraft:tall_grass_feature", 1]
+        ]
+    }
+}

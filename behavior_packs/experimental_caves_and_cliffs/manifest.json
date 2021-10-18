@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "resourcePack.vanilla_server.experimental.caves_and_cliffs.description",
+        "name": "resourcePack.vanilla_server.experimental.name",
+        "uuid": "8a779527-33b2-4dc6-abf4-947860a6d16d",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "resourcePack.vanilla_server.experimental.caves_and_cliffs.description",
+            "type": "data",
+			"uuid": "e4c7839f-beb5-474b-b4fd-5c5065c48385",
+            "version": [0, 0, 1]
+        }
+    ]
+}
