@@ -127,7 +127,11 @@
 	{
 		"file_system" : "RawPath",
 		"from_disk" : true,
-		"hashes" : [ "oII5gRnVOmMLYnKtJ7u49VlKZODTXZqmVDWRZ3TX/Fc=" ],
+		"hashes" : 
+		[
+			"oII5gRnVOmMLYnKtJ7u49VlKZODTXZqmVDWRZ3TX/Fc=",
+			"gymtxHtwe9QzHaW5cHjWWiXsZK/8OzOIbhL3GPN6m7o="
+		],
 		"path" : "behavior_packs/test_vanilla_1.11",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.11.0"
@@ -136,7 +140,11 @@
 	{
 		"file_system" : "RawPath",
 		"from_disk" : true,
-		"hashes" : [ "yNqLu6W+XZoGAiWTgt4zYLUeovu3Y4pmx5/gL4b8EMI=" ],
+		"hashes" : 
+		[
+			"yNqLu6W+XZoGAiWTgt4zYLUeovu3Y4pmx5/gL4b8EMI=",
+			"C2dE4mBrsF9fKIRzY1mpmtwWB2kw+JFbnN2qQtpCiRw="
+		],
 		"path" : "behavior_packs/test_vanilla_1.12",
 		"uuid" : "fe9f8597-5454-481a-8730-8d070a8e2e58",
 		"version" : "1.12.0"
