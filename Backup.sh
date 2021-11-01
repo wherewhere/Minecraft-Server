@@ -1,4 +1,4 @@
 #!/bin/bash
 
-datatime=$(date '+%X %x %Z')
+datatime=$(date '+%X %Z %x')
 git commit -a -m "Backup ${datatime}"
